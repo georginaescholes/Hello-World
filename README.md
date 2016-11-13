@@ -9,3 +9,5 @@ CREATE table addresses (
     by varchar,
     postnummer int
     );
+
+ADD column geom:
