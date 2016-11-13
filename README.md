@@ -13,4 +13,4 @@ CREATE table addresses (
     postnummer int
     );
 
-ADD column geom: 1234
+ADD column geom: asdf
